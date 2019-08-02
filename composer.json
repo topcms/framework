@@ -1,0 +1,11 @@
+{
+    "name": "topcms/topcms",
+    "description": "This is topcms Framework",
+    "authors": [
+        {
+            "name": "Joker.Liu",
+            "email": "joker.liu@admincms.top"
+        }
+    ],
+    "require": {}
+}
